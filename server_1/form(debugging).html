@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+<body>
+	<div class="whole" style="border:2px solid black;width:30%;margin:2px;">
+	<table>
+	<form id="myform" name="myform" method="POST" action="datamine_optimized.php" onsubmit="return validate_form(this)">
+		<tr><td>Twitter Username</td><td><input type="text" name="uname" /></td>
+			<td></td>
+			<!--<td align="center">Conduct Test Search</td>-->
+		<tr><td>Twitter Password</td><td><input type="password" name="pword" /></td>
+			<!--<td>Search Term</td>-->
+			<!--<td><input type="password" name="searchword" /></td>-->			
+		<tr><td>Keyword</td><td><input type="text" name="kword" /></td>
+			<td></td>
+			<!--<td align="center"><input type="button" value="Start Test Search "name="searchStart" onclick="twit_search()"/></td>-->
+		<tr><td>How Long? (in secs)</td><td><input type="text" name="length" /></td>
+		<tr><td>Message</td><td><textarea rows="10" cols="17" name="msg" onKeyDown="textCounter(document.myform.msg,document.myform.remLen1,126)"
+								onKeyUp="textCounter(document.myform.msg,document.myform.remLen1,126)"></textarea></td>
+								<td colspan="1" align="center">You have <br /><input readonly type="text" name="remLen1" size="1" maxlength="3" value="125"><br />characters left<br /> for your tweet</td>
+		<tr><td></td><td align="center"><input type="submit" value="Start Search" onclick="submitConfirm()"></td>
+		<tr><td>Status:</td><td align="center"><span id="pbar"></span></td><td></td>
+		<tr><td></td><td id="response" align="center"></td>
+		
+	</form>
+	</div>
+
+		
+	
+</body>
+</html>

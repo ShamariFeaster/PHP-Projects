@@ -1,0 +1,327 @@
+These are result from searching people from the "nigga" keyword search. We analyize 50 tweets per person
+and a 20 minute response requisite.  
+
+Your analysis of 134 profiles and 5987 tweets has yielded 1983 instances where the user would have seen our ad
+This is a success rate of 33.57%
+Your analysis of 330 profiles and 12836 tweets has yielded 733 instances where the user would have seen our ad.
+This is a success rate of 5.7%
+Your analysis of 322 profiles and 10348 tweets has yielded 1075 instances where the user would have seen our ad.
+This is a success rate of 10.39%
+Your analysis of 83 profiles and 3719 tweets has yielded 309 instances where the user would have seen our ad.
+This is a success rate of 8.3%
+Your analysis of 79 profiles and 3653 tweets has yielded 287 instances where the user would have seen our ad.
+This is a success rate of 7.9%
+Your analysis of 84 profiles and 3922 tweets has yielded 76 instances where the user would have seen our ad.
+This is a success rate of 1.94%
+Your analysis of 81 profiles and 3534 tweets  has yielded 272 instances where the user would have seen our ad.
+This is a success rate of 7.7%
+Your analysis of 84 profiles and 3859 tweets  has yielded 313 instances where the user would have seen our ad.
+This is a success rate of 8.11%
+Your analysis of 80 profiles and 3561 tweets  has yielded 282 instances where the user would have seen our ad.
+This is a success rate of 7.92%
+Your analysis of 81 profiles and 3772 tweets  has yielded 74 instances where the user would have seen our ad.
+This is a success rate of 1.96%
+Your analysis of 81 profiles and 3639 tweets  has yielded 300 instances where the user would have seen our ad.
+This is a success rate of 8.24%
+Your analysis of 83 profiles and 3773 tweets  has yielded 156 instances where the user would have seen our ad.
+This is a success rate of 4.13%
+Your analysis of 84 profiles and 3731 tweets has yielded 805 instances where the user would have seen our ad.
+This is a success rate of 21.58%
+Your analysis of 87 profiles and 3874 tweets  has yielded 335 instances where the user would have seen our ad.
+This is a success rate of 8.65%
+Your analysis of 84 profiles and 3787 tweets  has yielded 416 instances where the user would have seen our ad.
+This is a success rate of 10.98%
+Your analysis of 82 profiles and 3725 tweets  has yielded 217 instances where the user would have seen our ad.
+This is a success rate of 5.83%
+Your analysis of 81 profiles and 3592 tweets  has yielded 294 instances where the user would have seen our ad.
+This is a success rate of 8.18%
+
+Time check: 12:55 PM 3-19-10
+
+Your analysis of 86 profiles and 4100 tweets  has yielded 496 instances where the user would have seen our ad.
+This is a success rate of 12.1%
+Your analysis of 82 profiles and 3816 tweets  has yielded 668 instances where the user would have seen our ad.
+This is a success rate of 17.51%
+Your analysis of 85 profiles and 3906 tweets  has yielded 692 instances where the user would have seen our ad.
+This is a success rate of 17.72%
+Your analysis of 85 profiles and 3784 tweets  has yielded 224 instances where the user would have seen our ad.
+This is a success rate of 5.92%
+Your analysis of 85 profiles and 4183 tweets  has yielded 417 instances where the user would have seen our ad.
+This is a success rate of 9.97%
+Your analysis of 85 profiles and 3955 tweets  has yielded 76 instances where the user would have seen our ad.
+This is a success rate of 1.92%
+
+Two tweet test:
+
+Your analysis of 2 profiles and 50 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 3 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 93 tweets  has yielded 21 instances where the user would have seen our ad.
+This is a success rate of 22.58%
+Your analysis of 2 profiles and 100 tweets  has yielded 68 instances where the user would have seen our ad.
+This is a success rate of 68%
+Your analysis of 2 profiles and 96 tweets  has yielded 17 instances where the user would have seen our ad.
+This is a success rate of 17.71%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 28 instances where the user would have seen our ad.
+This is a success rate of 28%
+Your analysis of 2 profiles and 8 tweets  has yielded 1 instances where the user would have seen our ad.
+This is a success rate of 12.5%
+Your analysis of 2 profiles and 64 tweets  has yielded 9 instances where the user would have seen our ad.
+This is a success rate of 14.06%
+Your analysis of 2 profiles and 71 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 22.54%
+Your analysis of 2 profiles and 56 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 14.29%
+Your analysis of 2 profiles and 55 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 10.91%
+Your analysis of 2 profiles and 64 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 61 tweets  has yielded 5 instances where the user would have seen our ad.
+This is a success rate of 8.2%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 78 tweets  has yielded 11 instances where the user would have seen our ad.
+This is a success rate of 14.1%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 58 tweets  has yielded 3 instances where the user would have seen our ad.
+This is a success rate of 5.17%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 18 instances where the user would have seen our ad.
+This is a success rate of 18%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 22 instances where the user would have seen our ad.
+This is a success rate of 22%
+Your analysis of 2 profiles and 55 tweets  has yielded 11 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 74 tweets  has yielded 44 instances where the user would have seen our ad.
+This is a success rate of 59.46%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 99 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2.02%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 22 instances where the user would have seen our ad.
+This is a success rate of 22%
+Your analysis of 2 profiles and 85 tweets  has yielded 5 instances where the user would have seen our ad.
+This is a success rate of 5.88%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 24 instances where the user would have seen our ad.
+This is a success rate of 24%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 77 tweets  has yielded 5 instances where the user would have seen our ad.
+This is a success rate of 6.49%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 78 tweets  has yielded 1 instances where the user would have seen our ad.
+This is a success rate of 1.28%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 93 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10.75%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 24 instances where the user would have seen our ad.
+This is a success rate of 24%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 48 instances where the user would have seen our ad.
+This is a success rate of 48%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 59 tweets  has yielded 1 instances where the user would have seen our ad.
+This is a success rate of 1.69%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 22 instances where the user would have seen our ad.
+This is a success rate of 22%
+Your analysis of 2 profiles and 75 tweets  has yielded 11 instances where the user would have seen our ad.
+This is a success rate of 14.67%
+Your analysis of 2 profiles and 73 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 27.4%
+Your analysis of 2 profiles and 100 tweets  has yielded 18 instances where the user would have seen our ad.
+This is a success rate of 18%
+Your analysis of 2 profiles and 61 tweets  has yielded 7 instances where the user would have seen our ad.
+This is a success rate of 11.48%
+Your analysis of 2 profiles and 57 tweets  has yielded 3 instances where the user would have seen our ad.
+This is a success rate of 5.26%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 57 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 7.02%
+Your analysis of 2 profiles and 63 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 12.7%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 26 instances where the user would have seen our ad.
+This is a success rate of 26%
+Your analysis of 2 profiles and 100 tweets  has yielded 28 instances where the user would have seen our ad.
+This is a success rate of 28%
+Your analysis of 2 profiles and 100 tweets  has yielded 26 instances where the user would have seen our ad.
+This is a success rate of 26%
+Your analysis of 2 profiles and 60 tweets  has yielded 3 instances where the user would have seen our ad.
+This is a success rate of 5%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 13 instances where the user would have seen our ad.
+This is a success rate of 13%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 10 instances where the user would have seen our ad.
+This is a success rate of 10%
+Your analysis of 2 profiles and 100 tweets  has yielded 20 instances where the user would have seen our ad.
+This is a success rate of 20%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 14 instances where the user would have seen our ad.
+This is a success rate of 14%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 4%
+Your analysis of 2 profiles and 100 tweets  has yielded 6 instances where the user would have seen our ad.
+This is a success rate of 6%
+Your analysis of 2 profiles and 100 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 8%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 100 tweets  has yielded 18 instances where the user would have seen our ad.
+This is a success rate of 18%
+Your analysis of 2 profiles and 100 tweets  has yielded 16 instances where the user would have seen our ad.
+This is a success rate of 16%
+Your analysis of 2 profiles and 51 tweets  has yielded 4 instances where the user would have seen our ad.
+This is a success rate of 7.84%
+Your analysis of 2 profiles and 100 tweets  has yielded 2 instances where the user would have seen our ad.
+This is a success rate of 2%
+Your analysis of 2 profiles and 100 tweets  has yielded 26 instances where the user would have seen our ad.
+This is a success rate of 26%
+Your analysis of 2 profiles and 63 tweets  has yielded 8 instances where the user would have seen our ad.
+This is a success rate of 12.7%
+Your analysis of 2 profiles and 100 tweets  has yielded 12 instances where the user would have seen our ad.
+This is a success rate of 12%
+Your analysis of 2 profiles and 50 tweets  has yielded 0 instances where the user would have seen our ad.
+This is a success rate of 0%

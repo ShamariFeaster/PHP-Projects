@@ -1,0 +1,19 @@
+This is a twitter data mining bot I wrote back in 2010 before twitter switched
+to OAuth s the sode surretly will not work because I haven't converted it to
+OAuth login but with that mod I think it should still work.
+
+Here's what it does:
+
+it allows the user to pick a search term and then it scours twitter for people
+who have used that term in a tweet with a certain time frame, the last 5
+minutes for example. It also only targets people who have used that term
+in a tweet that has an "@" in it, implying they are currently engaged
+in a conversation with someone and are more likely to check their inbox
+ and see the tweet this bot will send to them.
+
+An example usage is if you are trying to get the word out about a cell phone
+repair business you could target "lost|broke|missing phone" and the tweet
+you send them could say "I just lost my phone too, but I got this one <link>"
+
+I'm not sure how the culture and mechanics of twitter has changed since I 
+wrote this ware but I'm sure it could be updated to still be useful today.
